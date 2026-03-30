@@ -48,7 +48,7 @@ Madison County, Illinois, USA
 
 ## Workflow
 
-
+CSV Data → ArcGIS API (CSVLayer) → Map Rendering → Symbolization → Popups → Interactive Web Map
 ---
 
 ## Key Findings
